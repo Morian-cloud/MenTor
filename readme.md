@@ -111,6 +111,8 @@ For initial testing, you can use the following admin credentials:
 
 Contributions are welcome! Please feel free to fork the repository, create pull requests, or open issues for bugs and feature requests.
 
+My name is Nguimtuin Tayou Moryan Gael and i have contributed on open source
+
 
 ## 📞 Support
 
